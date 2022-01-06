@@ -14,7 +14,7 @@
     - [非阻塞式 I/O 模型](/socket/none_block)
     - [I/O 多路复用模型](/socket/multiplexing)
     - [信号式驱动式 I/O 模型](/socket/signal)
-    - [异步 I/O 模型](/socket/async)
+    - [异步 I/O 模型: io_uring](/socket/async)
 
   - 逻辑处理模型
 
