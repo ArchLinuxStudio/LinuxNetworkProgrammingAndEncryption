@@ -8,20 +8,13 @@
 - Socket 编程
 
   - [简要说明](/socket/basic.md)
-  - I/O 模型
-
-    - [阻塞式 I/O 模型](/socket/block)
-    - [非阻塞式 I/O 模型](/socket/none_block)
-    - [I/O 多路复用模型](/socket/multiplexing)
-    - [信号式驱动式 I/O 模型](/socket/signal)
-    - [异步 I/O 模型: io_uring](/socket/async)
-
-  - 逻辑处理模型
-
-    - [WIP](/)
-
+  - [阻塞式 I/O 模型](/socket/block)
+  - [非阻塞式 I/O 模型](/socket/none_block)
+  - [I/O 多路复用模型](/socket/multiplexing)
+  - [信号式驱动式 I/O 模型](/socket/signal)
+  - [异步 I/O 模型: io_uring](/socket/async)
+  - [Lab0](/socket/lab0)
   <!-- - [通过 wireshark 抓包认识 socks5](/network/socks5_with_wireshark)
-  - [Lab0](/network/lab0) -->
   <!-- - [阅读 microsocks 的源码](/network/read_with_microsocks) -->
 
 - mbedtls 库与密码学的应用与实践
